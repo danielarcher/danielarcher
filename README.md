@@ -29,6 +29,5 @@ I'm excited to present at the [PHP Conference in Munich](https://www.phpconferen
 ## Get in Touch
 
 - 📧 E-mail: [contato@danielcramer.com.br](mailto:contato@danielcramer.com.br)
-- 📞 Phone: +353 083 204 1646
 
 Thanks for visiting. Cheers!
