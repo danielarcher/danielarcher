@@ -14,7 +14,8 @@ I've been coding for over 12 years, and I have a deep passion for creating excep
 - Zend certified as a PHP Engineer back in 2015.
 - Regular speaker at tech conferences, sharing my journey and insights.
 
-## 🎙️ Upcoming Talk at IPC Munich 2023
+# Talks
+## 🎙️ IPC Munich 2023
 
 I'm excited to present at the [PHP Conference in Munich](https://www.phpconference.com/munich/) on October 26, 2023. 
 
